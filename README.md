@@ -10,3 +10,8 @@ Prosta apka bazująca na popularnej grze What The Hex?
 ## Po zgadnięciu koloru - prosta informacja, że użytkownik wygrał.
 
 ![image](https://github.com/zielonek252/whats-the-hex-clone/assets/83509587/5360a77a-a92e-49b8-a7fe-3e71a21344b9)
+
+## Gdy wciśniemy błędny kolor, on znika.
+
+![image](https://github.com/zielonek252/whats-the-hex-clone/assets/83509587/fe1fae70-77b3-40e5-a650-7ee006bf187a)
+
