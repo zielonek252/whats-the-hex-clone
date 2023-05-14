@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Gra.qml</file>
+        <file>Menu.qml</file>
+        <file>Win.qml</file>
+    </qresource>
+</RCC>
